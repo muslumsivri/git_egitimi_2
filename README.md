@@ -1,0 +1,1 @@
+# git_egitimi_2
